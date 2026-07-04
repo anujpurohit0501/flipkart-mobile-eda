@@ -18,12 +18,11 @@ To analyze mobile phone data and extract meaningful insights about price distrib
 The dataset contains information about mobile phones including:
 - Brand
 - Model
-- Price
+- Selling Price
 - Rating
 - RAM
 - Storage
-- Camera
-- Battery
+- Original Price
 
 ---
 
@@ -63,4 +62,4 @@ The dataset contains information about mobile phones including:
 ---
 
 ## 👨‍💻 Author
-Your Name
+Anuj Purohit
